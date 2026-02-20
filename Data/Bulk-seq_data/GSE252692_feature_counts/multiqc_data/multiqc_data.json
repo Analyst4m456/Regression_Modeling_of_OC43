@@ -1,0 +1,2946 @@
+{
+    "report_data_sources": {
+        "featureCounts": {
+            "all_sections": {
+                "08_OC43_30hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/08_OC43_30hpi_rep1_count_matrix.txt.summary",
+                "30_OC43_1.5hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/30_OC43_1.5hpi_rep4_count_matrix.txt.summary",
+                "32_OC43_6hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/32_OC43_6hpi_rep4_count_matrix.txt.summary",
+                "35_OC43_18hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/35_OC43_18hpi_rep4_count_matrix.txt.summary",
+                "04_OC43_9hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/04_OC43_9hpi_rep1_count_matrix.txt.summary",
+                "03_OC43_6hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/03_OC43_6hpi_rep1_count_matrix.txt.summary",
+                "10_OC43_1.5hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/10_OC43_1.5hpi_rep2_count_matrix.txt.summary",
+                "29_uninfected_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/29_uninfected_rep4_count_matrix.txt.summary",
+                "06_OC43_18hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/06_OC43_18hpi_rep1_count_matrix.txt.summary",
+                "24_OC43_24hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/24_OC43_24hpi_rep3_count_matrix.txt.summary",
+                "11_OC43_3hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/11_OC43_3hpi_rep2_count_matrix.txt.summary",
+                "22_OC43_12hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/22_OC43_12hpi_rep3_count_matrix.txt.summary",
+                "14_OC43_18hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/14_OC43_18hpi_rep2_count_matrix.txt.summary",
+                "02_OC43_3hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/02_OC43_3hpi_rep1_count_matrix.txt.summary",
+                "05_OC43_12hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/05_OC43_12hpi_rep1_count_matrix.txt.summary",
+                "20_OC43_6hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/20_OC43_6hpi_rep3_count_matrix.txt.summary",
+                "19_OC43_3hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/19_OC43_3hpi_rep3_count_matrix.txt.summary",
+                "01_uninfected_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/01_uninfected_rep1_count_matrix.txt.summary",
+                "23_OC43_18hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/23_OC43_18hpi_rep3_count_matrix.txt.summary",
+                "34_OC43_12hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/34_OC43_12hpi_rep4_count_matrix.txt.summary",
+                "33_OC43_9hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/33_OC43_9hpi_rep4_count_matrix.txt.summary",
+                "09_uninfected_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/09_uninfected_rep2_count_matrix.txt.summary",
+                "37_OC43_30hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/37_OC43_30hpi_rep4_count_matrix.txt.summary",
+                "31_OC43_3hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/31_OC43_3hpi_rep4_count_matrix.txt.summary",
+                "25_OC43_30hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/25_OC43_30hpi_rep3_count_matrix.txt.summary",
+                "15_OC43_24hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/15_OC43_24hpi_rep2_count_matrix.txt.summary",
+                "21_OC43_9hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/21_OC43_9hpi_rep3_count_matrix.txt.summary",
+                "07_OC43_24hpi_rep1": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/07_OC43_24hpi_rep1_count_matrix.txt.summary",
+                "16_OC43_30hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/16_OC43_30hpi_rep2_count_matrix.txt.summary",
+                "36_OC43_24hpi_rep4": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/36_OC43_24hpi_rep4_count_matrix.txt.summary",
+                "13_OC43_12hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/13_OC43_12hpi_rep2_count_matrix.txt.summary",
+                "18_OC43_1.5hpi_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/18_OC43_1.5hpi_rep3_count_matrix.txt.summary",
+                "17_uninfected_rep3": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/17_uninfected_rep3_count_matrix.txt.summary",
+                "12_OC43_9hpi_rep2": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual/12_OC43_9hpi_rep2_count_matrix.txt.summary"
+            }
+        }
+    },
+    "report_general_stats_data": [
+        {
+            "08_OC43_30hpi_rep1": {
+                "Total": 89095455,
+                "Assigned": 82184432,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 6911023,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 92.24312508421446
+            },
+            "30_OC43_1.5hpi_rep4": {
+                "Total": 73584106,
+                "Assigned": 57205139,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16378967,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 77.74116192972433
+            },
+            "32_OC43_6hpi_rep4": {
+                "Total": 79442926,
+                "Assigned": 62644122,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16798804,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 78.8542481428743
+            },
+            "35_OC43_18hpi_rep4": {
+                "Total": 100541857,
+                "Assigned": 89240146,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 11301711,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 88.75919807210245
+            },
+            "04_OC43_9hpi_rep1": {
+                "Total": 76947932,
+                "Assigned": 65626661,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 11321271,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 85.28710167285587
+            },
+            "03_OC43_6hpi_rep1": {
+                "Total": 84466016,
+                "Assigned": 71052292,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 13413724,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.11938358735897
+            },
+            "10_OC43_1.5hpi_rep2": {
+                "Total": 92473459,
+                "Assigned": 77806317,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14667142,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.13907930058072
+            },
+            "29_uninfected_rep4": {
+                "Total": 73552394,
+                "Assigned": 56720818,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16831576,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 77.11620916105055
+            },
+            "06_OC43_18hpi_rep1": {
+                "Total": 81032969,
+                "Assigned": 73537009,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 7495960,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 90.7494935795824
+            },
+            "24_OC43_24hpi_rep3": {
+                "Total": 66061374,
+                "Assigned": 57793715,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 8267659,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 87.48488186152471
+            },
+            "11_OC43_3hpi_rep2": {
+                "Total": 96340247,
+                "Assigned": 80227604,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16112643,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 83.27527331334328
+            },
+            "22_OC43_12hpi_rep3": {
+                "Total": 52646401,
+                "Assigned": 44724616,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 7921785,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.95284606444417
+            },
+            "14_OC43_18hpi_rep2": {
+                "Total": 83738416,
+                "Assigned": 75733731,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 8004685,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 90.44084497609795
+            },
+            "02_OC43_3hpi_rep1": {
+                "Total": 103489171,
+                "Assigned": 85548063,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 17941108,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 82.66378228114321
+            },
+            "05_OC43_12hpi_rep1": {
+                "Total": 87567114,
+                "Assigned": 75753134,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 11813980,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 86.50865666304819
+            },
+            "20_OC43_6hpi_rep3": {
+                "Total": 75597808,
+                "Assigned": 57212061,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 18385747,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 75.67952367084506
+            },
+            "19_OC43_3hpi_rep3": {
+                "Total": 62054697,
+                "Assigned": 47527525,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14527172,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 76.5897301859358
+            },
+            "01_uninfected_rep1": {
+                "Total": 97743763,
+                "Assigned": 83636305,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14107458,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 85.56689698963196
+            },
+            "23_OC43_18hpi_rep3": {
+                "Total": 55219666,
+                "Assigned": 47839677,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 7379989,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 86.63521615650482
+            },
+            "34_OC43_12hpi_rep4": {
+                "Total": 71906357,
+                "Assigned": 61666056,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 10240301,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 85.75883770610156
+            },
+            "33_OC43_9hpi_rep4": {
+                "Total": 67269460,
+                "Assigned": 54491407,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 12778053,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 81.0046743351292
+            },
+            "09_uninfected_rep2": {
+                "Total": 81148048,
+                "Assigned": 68460047,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 12688001,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.36437928858128
+            },
+            "37_OC43_30hpi_rep4": {
+                "Total": 96085308,
+                "Assigned": 85683515,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 10401793,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 89.17441884039128
+            },
+            "31_OC43_3hpi_rep4": {
+                "Total": 58926266,
+                "Assigned": 46384311,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 12541955,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 78.71584973668618
+            },
+            "25_OC43_30hpi_rep3": {
+                "Total": 83124507,
+                "Assigned": 73408904,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 9715603,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 88.31198722177082
+            },
+            "15_OC43_24hpi_rep2": {
+                "Total": 73709236,
+                "Assigned": 26520409,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 47188827,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 35.97976378428343
+            },
+            "21_OC43_9hpi_rep3": {
+                "Total": 70467357,
+                "Assigned": 57343472,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 13123885,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 81.37593694623739
+            },
+            "07_OC43_24hpi_rep1": {
+                "Total": 76186005,
+                "Assigned": 70102047,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 6083958,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 92.01433649132802
+            },
+            "16_OC43_30hpi_rep2": {
+                "Total": 79686296,
+                "Assigned": 72691202,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 6995094,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 91.22171019217659
+            },
+            "36_OC43_24hpi_rep4": {
+                "Total": 58029275,
+                "Assigned": 52233283,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 5795992,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 90.01195172608998
+            },
+            "13_OC43_12hpi_rep2": {
+                "Total": 80097257,
+                "Assigned": 70372835,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 9724422,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 87.8592321831945
+            },
+            "18_OC43_1.5hpi_rep3": {
+                "Total": 73077511,
+                "Assigned": 56305042,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16772469,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 77.0483849675723
+            },
+            "17_uninfected_rep3": {
+                "Total": 68382959,
+                "Assigned": 53615989,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14766970,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 78.40548257059189
+            },
+            "12_OC43_9hpi_rep2": {
+                "Total": 90033906,
+                "Assigned": 75880790,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14153116,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.28023771400078
+            }
+        }
+    ],
+    "report_general_stats_headers": [
+        {
+            "Assigned": {
+                "title": "Assigned",
+                "description": "Assigned reads (millions)",
+                "scale": "PuBu",
+                "shared_key": "read_count",
+                "hidden": true,
+                "namespace": "featureCounts",
+                "rid": "featurecounts-Assigned",
+                "modify": null,
+                "min": 0,
+                "suffix": " M",
+                "placement": 1000
+            },
+            "percent_assigned": {
+                "title": "Assigned",
+                "description": "% Assigned reads",
+                "max": 100,
+                "min": 0,
+                "suffix": "%",
+                "scale": "RdYlGn",
+                "namespace": "featureCounts",
+                "rid": "featurecounts-percent_assigned",
+                "placement": 1000
+            }
+        }
+    ],
+    "report_multiqc_command": "/home/yyyyx/.local/bin/multiqc .",
+    "report_plot_data": {
+        "featureCounts_assignment_plot": {
+            "id": "featureCounts_assignment_plot",
+            "anchor": "featureCounts_assignment_plot",
+            "plot_type": "bar plot",
+            "layout": {
+                "autosize": true,
+                "colorway": [
+                    "#7cb5ec",
+                    "#434348",
+                    "#90ed7d",
+                    "#f7a35c",
+                    "#8085e9",
+                    "#f15c80",
+                    "#e4d354",
+                    "#2b908f",
+                    "#f45b5b",
+                    "#91e8e1"
+                ],
+                "font": {
+                    "family": "'Lucida Grande', 'Open Sans', verdana, arial, sans-serif"
+                },
+                "height": 650,
+                "hoverlabel": {
+                    "namelength": -1,
+                    "bgcolor": "rgba(255, 255, 255, 0.8)",
+                    "font": {
+                        "color": "black"
+                    }
+                },
+                "margin": {
+                    "b": 65,
+                    "l": 60,
+                    "pad": 5,
+                    "r": 15,
+                    "t": 50
+                },
+                "modebar": {
+                    "activecolor": "rgba(0, 0, 0, 1)",
+                    "bgcolor": "rgba(0, 0, 0, 0)",
+                    "color": "rgba(0, 0, 0, 0.5)"
+                },
+                "paper_bgcolor": "white",
+                "plot_bgcolor": "white",
+                "showlegend": true,
+                "title": {
+                    "font": {
+                        "size": 20
+                    },
+                    "text": "featureCounts: Assignments",
+                    "x": 0.5,
+                    "xanchor": "center"
+                },
+                "xaxis": {
+                    "automargin": true,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.05)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,1)",
+                        "size": 10
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.05)"
+                },
+                "yaxis": {
+                    "automargin": true,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.05)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,1)",
+                        "size": 10
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.05)",
+                    "showgrid": false,
+                    "categoryorder": "trace",
+                    "type": "category"
+                },
+                "barmode": "relative",
+                "bargroupgap": 0,
+                "bargap": 0.2,
+                "legend": {
+                    "tracegroupgap": 0,
+                    "traceorder": "normal"
+                },
+                "hovermode": "y unified"
+            },
+            "datasets": [
+                {
+                    "plot_id": "featureCounts_assignment_plot",
+                    "label": "1",
+                    "uid": "featureCounts_assignment_plot",
+                    "dconfig": {
+                        "title": "featureCounts: Assignments<br><sup>34 samples</sup>"
+                    },
+                    "layout": {
+                        "title": {
+                            "text": "featureCounts: Assignments<br><sup>34 samples</sup>"
+                        },
+                        "xaxis": {
+                            "title": {
+                                "text": "# Reads"
+                            },
+                            "hoverformat": ",.2f",
+                            "ticksuffix": "",
+                            "autorangeoptions": {
+                                "minallowed": 0,
+                                "maxallowed": 103489171.0
+                            }
+                        },
+                        "yaxis": {
+                            "title": null,
+                            "hoverformat": null,
+                            "ticksuffix": ""
+                        },
+                        "showlegend": true
+                    },
+                    "trace_params": {
+                        "hovertemplate": "<b></b>%{meta}: <b>%{x}</b><extra></extra>",
+                        "orientation": "h",
+                        "marker": {
+                            "line": {
+                                "width": 0
+                            }
+                        },
+                        "textposition": "inside",
+                        "insidetextanchor": "start"
+                    },
+                    "pct_range": {
+                        "xaxis": {
+                            "min": 0,
+                            "max": 100
+                        },
+                        "yaxis": {
+                            "min": 0,
+                            "max": 100
+                        }
+                    },
+                    "n_samples": 34,
+                    "cats": [
+                        {
+                            "name": "Assigned",
+                            "color": "124,181,236",
+                            "data": [
+                                85683515.0,
+                                52233283.0,
+                                89240146.0,
+                                61666056.0,
+                                54491407.0,
+                                62644122.0,
+                                46384311.0,
+                                57205139.0,
+                                56720818.0,
+                                73408904.0,
+                                57793715.0,
+                                47839677.0,
+                                44724616.0,
+                                57343472.0,
+                                57212061.0,
+                                47527525.0,
+                                56305042.0,
+                                53615989.0,
+                                72691202.0,
+                                26520409.0,
+                                75733731.0,
+                                70372835.0,
+                                75880790.0,
+                                80227604.0,
+                                77806317.0,
+                                68460047.0,
+                                82184432.0,
+                                70102047.0,
+                                73537009.0,
+                                75753134.0,
+                                65626661.0,
+                                71052292.0,
+                                85548063.0,
+                                83636305.0
+                            ],
+                            "data_pct": [
+                                89.17441884039128,
+                                90.01195172608998,
+                                88.75919807210245,
+                                85.75883770610156,
+                                81.0046743351292,
+                                78.8542481428743,
+                                78.71584973668618,
+                                77.74116192972433,
+                                77.11620916105055,
+                                88.31198722177082,
+                                87.48488186152471,
+                                86.63521615650482,
+                                84.95284606444417,
+                                81.37593694623739,
+                                75.67952367084506,
+                                76.5897301859358,
+                                77.0483849675723,
+                                78.40548257059189,
+                                91.22171019217659,
+                                35.97976378428343,
+                                90.44084497609795,
+                                87.8592321831945,
+                                84.28023771400078,
+                                83.27527331334328,
+                                84.13907930058072,
+                                84.36437928858128,
+                                92.24312508421446,
+                                92.01433649132802,
+                                90.7494935795824,
+                                86.50865666304819,
+                                85.28710167285587,
+                                84.11938358735897,
+                                82.66378228114321,
+                                85.56689698963196
+                            ]
+                        },
+                        {
+                            "name": "Unassigned: No Features",
+                            "color": "67,67,72",
+                            "data": [
+                                10401793.0,
+                                5795992.0,
+                                11301711.0,
+                                10240301.0,
+                                12778053.0,
+                                16798804.0,
+                                12541955.0,
+                                16378967.0,
+                                16831576.0,
+                                9715603.0,
+                                8267659.0,
+                                7379989.0,
+                                7921785.0,
+                                13123885.0,
+                                18385747.0,
+                                14527172.0,
+                                16772469.0,
+                                14766970.0,
+                                6995094.0,
+                                47188827.0,
+                                8004685.0,
+                                9724422.0,
+                                14153116.0,
+                                16112643.0,
+                                14667142.0,
+                                12688001.0,
+                                6911023.0,
+                                6083958.0,
+                                7495960.0,
+                                11813980.0,
+                                11321271.0,
+                                13413724.0,
+                                17941108.0,
+                                14107458.0
+                            ],
+                            "data_pct": [
+                                10.825581159608708,
+                                9.988048273910021,
+                                11.240801927897552,
+                                14.241162293898437,
+                                18.995325664870805,
+                                21.145751857125706,
+                                21.284150263313816,
+                                22.258838070275665,
+                                22.883790838949444,
+                                11.688012778229169,
+                                12.515118138475293,
+                                13.364783843495179,
+                                15.047153935555823,
+                                18.62406305376261,
+                                24.320476329154943,
+                                23.410269814064197,
+                                22.951615032427693,
+                                21.594517429408107,
+                                8.778289807823418,
+                                64.02023621571658,
+                                9.559155023902052,
+                                12.140767816805512,
+                                15.719762285999234,
+                                16.724726686656723,
+                                15.860920699419278,
+                                15.635620711418715,
+                                7.756874915785547,
+                                7.9856635086719665,
+                                9.250506420417596,
+                                13.491343336951815,
+                                14.712898327144128,
+                                15.880616412641032,
+                                17.336217718856787,
+                                14.433103010368036
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "37_OC43_30hpi_rep4",
+                        "36_OC43_24hpi_rep4",
+                        "35_OC43_18hpi_rep4",
+                        "34_OC43_12hpi_rep4",
+                        "33_OC43_9hpi_rep4",
+                        "32_OC43_6hpi_rep4",
+                        "31_OC43_3hpi_rep4",
+                        "30_OC43_1.5hpi_rep4",
+                        "29_uninfected_rep4",
+                        "25_OC43_30hpi_rep3",
+                        "24_OC43_24hpi_rep3",
+                        "23_OC43_18hpi_rep3",
+                        "22_OC43_12hpi_rep3",
+                        "21_OC43_9hpi_rep3",
+                        "20_OC43_6hpi_rep3",
+                        "19_OC43_3hpi_rep3",
+                        "18_OC43_1.5hpi_rep3",
+                        "17_uninfected_rep3",
+                        "16_OC43_30hpi_rep2",
+                        "15_OC43_24hpi_rep2",
+                        "14_OC43_18hpi_rep2",
+                        "13_OC43_12hpi_rep2",
+                        "12_OC43_9hpi_rep2",
+                        "11_OC43_3hpi_rep2",
+                        "10_OC43_1.5hpi_rep2",
+                        "09_uninfected_rep2",
+                        "08_OC43_30hpi_rep1",
+                        "07_OC43_24hpi_rep1",
+                        "06_OC43_18hpi_rep1",
+                        "05_OC43_12hpi_rep1",
+                        "04_OC43_9hpi_rep1",
+                        "03_OC43_6hpi_rep1",
+                        "02_OC43_3hpi_rep1",
+                        "01_uninfected_rep1"
+                    ]
+                }
+            ],
+            "pconfig": {
+                "id": "featureCounts_assignment_plot",
+                "title": "featureCounts: Assignments",
+                "anchor": null,
+                "table_title": null,
+                "height": null,
+                "width": null,
+                "square": false,
+                "logswitch": false,
+                "logswitch_active": false,
+                "logswitch_label": "Log10",
+                "cpswitch": true,
+                "cpswitch_c_active": true,
+                "cpswitch_counts_label": "Number of Reads",
+                "cpswitch_percent_label": "Percentages",
+                "xLog": null,
+                "yLog": null,
+                "xlog": false,
+                "ylog": false,
+                "data_labels": [],
+                "xTitle": null,
+                "yTitle": null,
+                "xlab": null,
+                "ylab": "# Reads",
+                "xsuffix": null,
+                "ysuffix": null,
+                "tt_suffix": null,
+                "xLabFormat": null,
+                "yLabFormat": null,
+                "xLabelFormat": null,
+                "yLabelFormat": null,
+                "xlab_format": null,
+                "ylab_format": null,
+                "tt_label": null,
+                "xDecimals": null,
+                "yDecimals": null,
+                "decimalPlaces": null,
+                "x_decimals": null,
+                "y_decimals": null,
+                "tt_decimals": null,
+                "xmin": null,
+                "xmax": null,
+                "ymin": null,
+                "ymax": null,
+                "xFloor": null,
+                "xCeiling": null,
+                "yFloor": null,
+                "yCeiling": null,
+                "x_clipmin": null,
+                "x_clipmax": null,
+                "y_clipmin": null,
+                "y_clipmax": null,
+                "save_data_file": true,
+                "showlegend": null,
+                "xMinRange": null,
+                "yMinRange": null,
+                "x_minrange": null,
+                "y_minrange": null,
+                "xPlotBands": null,
+                "yPlotBands": null,
+                "xPlotLines": null,
+                "yPlotLines": null,
+                "x_bands": null,
+                "y_bands": null,
+                "x_lines": null,
+                "y_lines": null,
+                "stacking": "relative",
+                "hide_zero_cats": true,
+                "sort_samples": true,
+                "use_legend": true,
+                "suffix": null,
+                "lab_format": null
+            },
+            "add_log_tab": false,
+            "add_pct_tab": true,
+            "l_active": false,
+            "p_active": false,
+            "pct_axis_update": {
+                "ticksuffix": "%",
+                "hoverformat": ".1f"
+            },
+            "axis_controlled_by_switches": [
+                "xaxis"
+            ],
+            "square": false,
+            "flat": false,
+            "defer_render": false,
+            "section_anchor": null,
+            "module_anchor": null
+        },
+        "general_stats_table": {
+            "id": "general_stats_table",
+            "anchor": "general_stats_table",
+            "plot_type": "violin plot",
+            "layout": {
+                "autosize": true,
+                "colorway": [
+                    "#7cb5ec",
+                    "#434348",
+                    "#90ed7d",
+                    "#f7a35c",
+                    "#8085e9",
+                    "#f15c80",
+                    "#e4d354",
+                    "#2b908f",
+                    "#f45b5b",
+                    "#91e8e1"
+                ],
+                "font": {
+                    "family": "'Lucida Grande', 'Open Sans', verdana, arial, sans-serif"
+                },
+                "height": 500,
+                "hoverlabel": {
+                    "namelength": -1
+                },
+                "margin": {
+                    "b": 40,
+                    "l": 60,
+                    "pad": 0,
+                    "r": 15,
+                    "t": 50
+                },
+                "modebar": {
+                    "activecolor": "rgba(0, 0, 0, 1)",
+                    "bgcolor": "rgba(0, 0, 0, 0)",
+                    "color": "rgba(0, 0, 0, 0.5)"
+                },
+                "paper_bgcolor": "white",
+                "plot_bgcolor": "white",
+                "showlegend": false,
+                "title": {
+                    "font": {
+                        "size": 20
+                    },
+                    "text": "General Statistics",
+                    "x": 0.5,
+                    "xanchor": "center"
+                },
+                "xaxis": {
+                    "automargin": false,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.1)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,0.5)",
+                        "size": 9
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.1)"
+                },
+                "yaxis": {
+                    "automargin": true,
+                    "color": "rgba(0,0,0,0.3)",
+                    "gridcolor": "rgba(0,0,0,0.1)",
+                    "tickfont": {
+                        "color": "rgba(0,0,0,0.5)",
+                        "size": 9
+                    },
+                    "zerolinecolor": "rgba(0,0,0,0.1)"
+                },
+                "violingap": 0,
+                "grid": {
+                    "columns": 1,
+                    "roworder": "top to bottom",
+                    "ygap": 0.4
+                }
+            },
+            "datasets": [
+                {
+                    "plot_id": "general_stats_table",
+                    "label": "1",
+                    "uid": "general_stats_table",
+                    "dconfig": {
+                        "ylab": "",
+                        "title": "General Statistics<br><sup>34 samples</sup>"
+                    },
+                    "layout": {
+                        "title": {
+                            "text": "General Statistics<br><sup>34 samples</sup>"
+                        },
+                        "xaxis": {
+                            "hoverformat": null,
+                            "ticksuffix": "",
+                            "title": {
+                                "text": null
+                            },
+                            "rangemode": "normal",
+                            "autorangeoptions": {
+                                "clipmin": null,
+                                "clipmax": null,
+                                "minallowed": null,
+                                "maxallowed": null
+                            }
+                        },
+                        "yaxis": {
+                            "hoverformat": null,
+                            "ticksuffix": "",
+                            "title": {
+                                "text": ""
+                            },
+                            "rangemode": "normal",
+                            "autorangeoptions": {
+                                "clipmin": null,
+                                "clipmax": null,
+                                "minallowed": null,
+                                "maxallowed": null
+                            }
+                        }
+                    },
+                    "trace_params": {
+                        "hovertemplate": "<b>%{text}</b>: %{x}<extra></extra>",
+                        "orientation": "h",
+                        "box": {
+                            "visible": true
+                        },
+                        "meanline": {
+                            "visible": true
+                        },
+                        "fillcolor": "#b5b5b5",
+                        "line": {
+                            "width": 2,
+                            "color": "#b5b5b5"
+                        },
+                        "opacity": 0.5,
+                        "points": false,
+                        "hoveron": "points"
+                    },
+                    "pct_range": {
+                        "xaxis": {
+                            "min": 0,
+                            "max": 100
+                        },
+                        "yaxis": {
+                            "min": 0,
+                            "max": 100
+                        }
+                    },
+                    "n_samples": 34,
+                    "metrics": [
+                        "featurecounts-Assigned",
+                        "featurecounts-percent_assigned"
+                    ],
+                    "header_by_metric": {
+                        "featurecounts-Assigned": {
+                            "title": "Assigned",
+                            "description": "Assigned reads (millions)",
+                            "suffix": " M",
+                            "dmin": 0.0,
+                            "dmax": 89.240146,
+                            "hidden": true,
+                            "xaxis": {
+                                "ticksuffix": " M",
+                                "tickvals": null,
+                                "range": [
+                                    -0.44620073,
+                                    89.68857773364999
+                                ]
+                            },
+                            "show_only_outliers": false,
+                            "show_points": true,
+                            "namespace": "featureCounts",
+                            "color": null,
+                            "hoverformat": ".2f"
+                        },
+                        "featurecounts-percent_assigned": {
+                            "title": "Assigned",
+                            "description": "% Assigned reads",
+                            "suffix": "%",
+                            "dmin": 0.0,
+                            "dmax": 100.0,
+                            "hidden": false,
+                            "xaxis": {
+                                "ticksuffix": "%",
+                                "tickvals": null,
+                                "range": [
+                                    -0.5,
+                                    100.5025
+                                ]
+                            },
+                            "show_only_outliers": false,
+                            "show_points": true,
+                            "namespace": "featureCounts",
+                            "color": null,
+                            "hoverformat": ".2f"
+                        }
+                    },
+                    "violin_value_by_sample_by_metric": {
+                        "featurecounts-Assigned": {
+                            "08_OC43_30hpi_rep1": 82.184432,
+                            "30_OC43_1.5hpi_rep4": 57.205138999999996,
+                            "32_OC43_6hpi_rep4": 62.644121999999996,
+                            "35_OC43_18hpi_rep4": 89.240146,
+                            "04_OC43_9hpi_rep1": 65.626661,
+                            "03_OC43_6hpi_rep1": 71.052292,
+                            "10_OC43_1.5hpi_rep2": 77.80631699999999,
+                            "29_uninfected_rep4": 56.720817999999994,
+                            "06_OC43_18hpi_rep1": 73.537009,
+                            "24_OC43_24hpi_rep3": 57.793715,
+                            "11_OC43_3hpi_rep2": 80.227604,
+                            "22_OC43_12hpi_rep3": 44.724616,
+                            "14_OC43_18hpi_rep2": 75.73373099999999,
+                            "02_OC43_3hpi_rep1": 85.548063,
+                            "05_OC43_12hpi_rep1": 75.753134,
+                            "20_OC43_6hpi_rep3": 57.212061,
+                            "19_OC43_3hpi_rep3": 47.527525,
+                            "01_uninfected_rep1": 83.636305,
+                            "23_OC43_18hpi_rep3": 47.839676999999995,
+                            "34_OC43_12hpi_rep4": 61.666056,
+                            "33_OC43_9hpi_rep4": 54.491406999999995,
+                            "09_uninfected_rep2": 68.460047,
+                            "37_OC43_30hpi_rep4": 85.683515,
+                            "31_OC43_3hpi_rep4": 46.384311,
+                            "25_OC43_30hpi_rep3": 73.40890399999999,
+                            "15_OC43_24hpi_rep2": 26.520408999999997,
+                            "21_OC43_9hpi_rep3": 57.343472,
+                            "07_OC43_24hpi_rep1": 70.102047,
+                            "16_OC43_30hpi_rep2": 72.69120199999999,
+                            "36_OC43_24hpi_rep4": 52.233283,
+                            "13_OC43_12hpi_rep2": 70.372835,
+                            "18_OC43_1.5hpi_rep3": 56.305042,
+                            "17_uninfected_rep3": 53.615989,
+                            "12_OC43_9hpi_rep2": 75.88078999999999
+                        },
+                        "featurecounts-percent_assigned": {
+                            "08_OC43_30hpi_rep1": 92.24312508421446,
+                            "30_OC43_1.5hpi_rep4": 77.74116192972433,
+                            "32_OC43_6hpi_rep4": 78.8542481428743,
+                            "35_OC43_18hpi_rep4": 88.75919807210245,
+                            "04_OC43_9hpi_rep1": 85.28710167285587,
+                            "03_OC43_6hpi_rep1": 84.11938358735897,
+                            "10_OC43_1.5hpi_rep2": 84.13907930058072,
+                            "29_uninfected_rep4": 77.11620916105055,
+                            "06_OC43_18hpi_rep1": 90.7494935795824,
+                            "24_OC43_24hpi_rep3": 87.48488186152471,
+                            "11_OC43_3hpi_rep2": 83.27527331334328,
+                            "22_OC43_12hpi_rep3": 84.95284606444417,
+                            "14_OC43_18hpi_rep2": 90.44084497609795,
+                            "02_OC43_3hpi_rep1": 82.66378228114321,
+                            "05_OC43_12hpi_rep1": 86.50865666304819,
+                            "20_OC43_6hpi_rep3": 75.67952367084506,
+                            "19_OC43_3hpi_rep3": 76.5897301859358,
+                            "01_uninfected_rep1": 85.56689698963196,
+                            "23_OC43_18hpi_rep3": 86.63521615650482,
+                            "34_OC43_12hpi_rep4": 85.75883770610156,
+                            "33_OC43_9hpi_rep4": 81.0046743351292,
+                            "09_uninfected_rep2": 84.36437928858128,
+                            "37_OC43_30hpi_rep4": 89.17441884039128,
+                            "31_OC43_3hpi_rep4": 78.71584973668618,
+                            "25_OC43_30hpi_rep3": 88.31198722177082,
+                            "15_OC43_24hpi_rep2": 35.97976378428343,
+                            "21_OC43_9hpi_rep3": 81.37593694623739,
+                            "07_OC43_24hpi_rep1": 92.01433649132802,
+                            "16_OC43_30hpi_rep2": 91.22171019217659,
+                            "36_OC43_24hpi_rep4": 90.01195172608998,
+                            "13_OC43_12hpi_rep2": 87.8592321831945,
+                            "18_OC43_1.5hpi_rep3": 77.0483849675723,
+                            "17_uninfected_rep3": 78.40548257059189,
+                            "12_OC43_9hpi_rep2": 84.28023771400078
+                        }
+                    },
+                    "scatter_value_by_sample_by_metric": {
+                        "featurecounts-Assigned": {},
+                        "featurecounts-percent_assigned": {}
+                    },
+                    "all_samples": [
+                        "01_uninfected_rep1",
+                        "02_OC43_3hpi_rep1",
+                        "03_OC43_6hpi_rep1",
+                        "04_OC43_9hpi_rep1",
+                        "05_OC43_12hpi_rep1",
+                        "06_OC43_18hpi_rep1",
+                        "07_OC43_24hpi_rep1",
+                        "08_OC43_30hpi_rep1",
+                        "09_uninfected_rep2",
+                        "10_OC43_1.5hpi_rep2",
+                        "11_OC43_3hpi_rep2",
+                        "12_OC43_9hpi_rep2",
+                        "13_OC43_12hpi_rep2",
+                        "14_OC43_18hpi_rep2",
+                        "15_OC43_24hpi_rep2",
+                        "16_OC43_30hpi_rep2",
+                        "17_uninfected_rep3",
+                        "18_OC43_1.5hpi_rep3",
+                        "19_OC43_3hpi_rep3",
+                        "20_OC43_6hpi_rep3",
+                        "21_OC43_9hpi_rep3",
+                        "22_OC43_12hpi_rep3",
+                        "23_OC43_18hpi_rep3",
+                        "24_OC43_24hpi_rep3",
+                        "25_OC43_30hpi_rep3",
+                        "29_uninfected_rep4",
+                        "30_OC43_1.5hpi_rep4",
+                        "31_OC43_3hpi_rep4",
+                        "32_OC43_6hpi_rep4",
+                        "33_OC43_9hpi_rep4",
+                        "34_OC43_12hpi_rep4",
+                        "35_OC43_18hpi_rep4",
+                        "36_OC43_24hpi_rep4",
+                        "37_OC43_30hpi_rep4"
+                    ],
+                    "scatter_trace_params": {
+                        "mode": "markers",
+                        "marker": {
+                            "size": 4,
+                            "color": "#0b79e6"
+                        },
+                        "showlegend": false,
+                        "hovertemplate": "<b>%{text}</b>: %{x}<extra></extra>",
+                        "hoverlabel": {
+                            "bgcolor": "white"
+                        }
+                    },
+                    "dt": {
+                        "id": "general_stats_table",
+                        "anchor": "general_stats_table_table",
+                        "pconfig": {
+                            "id": "general_stats_table",
+                            "title": "General Statistics",
+                            "anchor": null,
+                            "table_title": null,
+                            "height": null,
+                            "width": null,
+                            "square": false,
+                            "logswitch": false,
+                            "logswitch_active": false,
+                            "logswitch_label": "Log10",
+                            "cpswitch": true,
+                            "cpswitch_c_active": true,
+                            "cpswitch_counts_label": "Counts",
+                            "cpswitch_percent_label": "Percentages",
+                            "xLog": null,
+                            "yLog": null,
+                            "xlog": false,
+                            "ylog": false,
+                            "data_labels": [],
+                            "xTitle": null,
+                            "yTitle": null,
+                            "xlab": null,
+                            "ylab": null,
+                            "xsuffix": null,
+                            "ysuffix": null,
+                            "tt_suffix": null,
+                            "xLabFormat": null,
+                            "yLabFormat": null,
+                            "xLabelFormat": null,
+                            "yLabelFormat": null,
+                            "xlab_format": null,
+                            "ylab_format": null,
+                            "tt_label": null,
+                            "xDecimals": null,
+                            "yDecimals": null,
+                            "decimalPlaces": null,
+                            "x_decimals": null,
+                            "y_decimals": null,
+                            "tt_decimals": null,
+                            "xmin": null,
+                            "xmax": null,
+                            "ymin": null,
+                            "ymax": null,
+                            "xFloor": null,
+                            "xCeiling": null,
+                            "yFloor": null,
+                            "yCeiling": null,
+                            "x_clipmin": null,
+                            "x_clipmax": null,
+                            "y_clipmin": null,
+                            "y_clipmax": null,
+                            "save_data_file": true,
+                            "showlegend": null,
+                            "xMinRange": null,
+                            "yMinRange": null,
+                            "x_minrange": null,
+                            "y_minrange": null,
+                            "xPlotBands": null,
+                            "yPlotBands": null,
+                            "xPlotLines": null,
+                            "yPlotLines": null,
+                            "x_bands": null,
+                            "y_bands": null,
+                            "x_lines": null,
+                            "y_lines": null,
+                            "namespace": "",
+                            "save_file": true,
+                            "raw_data_fn": "multiqc_general_stats",
+                            "defaultsort": null,
+                            "sortRows": true,
+                            "sort_rows": true,
+                            "only_defined_headers": true,
+                            "col1_header": "Sample Name",
+                            "no_beeswarm": false,
+                            "no_violin": false,
+                            "scale": "GnBu",
+                            "min": null,
+                            "parse_numeric": true
+                        },
+                        "sections": [
+                            {
+                                "column_by_key": {
+                                    "Assigned": {
+                                        "rid": "featurecounts-Assigned",
+                                        "title": "Assigned",
+                                        "description": "Assigned reads (millions)",
+                                        "scale": "PuBu",
+                                        "hidden": true,
+                                        "placement": 1000.0,
+                                        "namespace": "featureCounts",
+                                        "colour": null,
+                                        "color": null,
+                                        "max": null,
+                                        "dmax": 89.240146,
+                                        "min": 0.0,
+                                        "dmin": 0.0,
+                                        "ceiling": null,
+                                        "floor": null,
+                                        "minRange": null,
+                                        "minrange": null,
+                                        "shared_key": "read_count",
+                                        "tt_decimals": null,
+                                        "suffix": " M",
+                                        "cond_formatting_colours": [
+                                            {
+                                                "blue": "#337ab7"
+                                            },
+                                            {
+                                                "lbue": "#5bc0de"
+                                            },
+                                            {
+                                                "pass": "#5cb85c"
+                                            },
+                                            {
+                                                "warn": "#f0ad4e"
+                                            },
+                                            {
+                                                "fail": "#d9534f"
+                                            },
+                                            {
+                                                "male": "#5bc0de"
+                                            },
+                                            {
+                                                "female": "#d9534f"
+                                            }
+                                        ],
+                                        "cond_formatting_rules": {},
+                                        "bgcols": {},
+                                        "bars_zero_centrepoint": false
+                                    },
+                                    "percent_assigned": {
+                                        "rid": "featurecounts-percent_assigned",
+                                        "title": "Assigned",
+                                        "description": "% Assigned reads",
+                                        "scale": "RdYlGn",
+                                        "hidden": false,
+                                        "placement": 1000.0,
+                                        "namespace": "featureCounts",
+                                        "colour": null,
+                                        "color": null,
+                                        "max": 100.0,
+                                        "dmax": 100.0,
+                                        "min": 0.0,
+                                        "dmin": 0.0,
+                                        "ceiling": null,
+                                        "floor": null,
+                                        "minRange": null,
+                                        "minrange": null,
+                                        "shared_key": null,
+                                        "tt_decimals": null,
+                                        "suffix": "%",
+                                        "cond_formatting_colours": [
+                                            {
+                                                "blue": "#337ab7"
+                                            },
+                                            {
+                                                "lbue": "#5bc0de"
+                                            },
+                                            {
+                                                "pass": "#5cb85c"
+                                            },
+                                            {
+                                                "warn": "#f0ad4e"
+                                            },
+                                            {
+                                                "fail": "#d9534f"
+                                            },
+                                            {
+                                                "male": "#5bc0de"
+                                            },
+                                            {
+                                                "female": "#d9534f"
+                                            }
+                                        ],
+                                        "cond_formatting_rules": {},
+                                        "bgcols": {},
+                                        "bars_zero_centrepoint": false
+                                    }
+                                },
+                                "rows_by_sgroup": {
+                                    "08_OC43_30hpi_rep1": [
+                                        {
+                                            "sample": "08_OC43_30hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 82.184432,
+                                                "percent_assigned": 92.24312508421446
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "82.2",
+                                                "percent_assigned": "92.2"
+                                            }
+                                        }
+                                    ],
+                                    "30_OC43_1.5hpi_rep4": [
+                                        {
+                                            "sample": "30_OC43_1.5hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 57.205138999999996,
+                                                "percent_assigned": 77.74116192972433
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "57.2",
+                                                "percent_assigned": "77.7"
+                                            }
+                                        }
+                                    ],
+                                    "32_OC43_6hpi_rep4": [
+                                        {
+                                            "sample": "32_OC43_6hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 62.644121999999996,
+                                                "percent_assigned": 78.8542481428743
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "62.6",
+                                                "percent_assigned": "78.9"
+                                            }
+                                        }
+                                    ],
+                                    "35_OC43_18hpi_rep4": [
+                                        {
+                                            "sample": "35_OC43_18hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 89.240146,
+                                                "percent_assigned": 88.75919807210245
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "89.2",
+                                                "percent_assigned": "88.8"
+                                            }
+                                        }
+                                    ],
+                                    "04_OC43_9hpi_rep1": [
+                                        {
+                                            "sample": "04_OC43_9hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 65.626661,
+                                                "percent_assigned": 85.28710167285587
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "65.6",
+                                                "percent_assigned": "85.3"
+                                            }
+                                        }
+                                    ],
+                                    "03_OC43_6hpi_rep1": [
+                                        {
+                                            "sample": "03_OC43_6hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 71.052292,
+                                                "percent_assigned": 84.11938358735897
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "71.1",
+                                                "percent_assigned": "84.1"
+                                            }
+                                        }
+                                    ],
+                                    "10_OC43_1.5hpi_rep2": [
+                                        {
+                                            "sample": "10_OC43_1.5hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 77.80631699999999,
+                                                "percent_assigned": 84.13907930058072
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "77.8",
+                                                "percent_assigned": "84.1"
+                                            }
+                                        }
+                                    ],
+                                    "29_uninfected_rep4": [
+                                        {
+                                            "sample": "29_uninfected_rep4",
+                                            "raw_data": {
+                                                "Assigned": 56.720817999999994,
+                                                "percent_assigned": 77.11620916105055
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "56.7",
+                                                "percent_assigned": "77.1"
+                                            }
+                                        }
+                                    ],
+                                    "06_OC43_18hpi_rep1": [
+                                        {
+                                            "sample": "06_OC43_18hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 73.537009,
+                                                "percent_assigned": 90.7494935795824
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "73.5",
+                                                "percent_assigned": "90.7"
+                                            }
+                                        }
+                                    ],
+                                    "24_OC43_24hpi_rep3": [
+                                        {
+                                            "sample": "24_OC43_24hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 57.793715,
+                                                "percent_assigned": 87.48488186152471
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "57.8",
+                                                "percent_assigned": "87.5"
+                                            }
+                                        }
+                                    ],
+                                    "11_OC43_3hpi_rep2": [
+                                        {
+                                            "sample": "11_OC43_3hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 80.227604,
+                                                "percent_assigned": 83.27527331334328
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "80.2",
+                                                "percent_assigned": "83.3"
+                                            }
+                                        }
+                                    ],
+                                    "22_OC43_12hpi_rep3": [
+                                        {
+                                            "sample": "22_OC43_12hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 44.724616,
+                                                "percent_assigned": 84.95284606444417
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "44.7",
+                                                "percent_assigned": "85.0"
+                                            }
+                                        }
+                                    ],
+                                    "14_OC43_18hpi_rep2": [
+                                        {
+                                            "sample": "14_OC43_18hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 75.73373099999999,
+                                                "percent_assigned": 90.44084497609795
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "75.7",
+                                                "percent_assigned": "90.4"
+                                            }
+                                        }
+                                    ],
+                                    "02_OC43_3hpi_rep1": [
+                                        {
+                                            "sample": "02_OC43_3hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 85.548063,
+                                                "percent_assigned": 82.66378228114321
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "85.5",
+                                                "percent_assigned": "82.7"
+                                            }
+                                        }
+                                    ],
+                                    "05_OC43_12hpi_rep1": [
+                                        {
+                                            "sample": "05_OC43_12hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 75.753134,
+                                                "percent_assigned": 86.50865666304819
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "75.8",
+                                                "percent_assigned": "86.5"
+                                            }
+                                        }
+                                    ],
+                                    "20_OC43_6hpi_rep3": [
+                                        {
+                                            "sample": "20_OC43_6hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 57.212061,
+                                                "percent_assigned": 75.67952367084506
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "57.2",
+                                                "percent_assigned": "75.7"
+                                            }
+                                        }
+                                    ],
+                                    "19_OC43_3hpi_rep3": [
+                                        {
+                                            "sample": "19_OC43_3hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 47.527525,
+                                                "percent_assigned": 76.5897301859358
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "47.5",
+                                                "percent_assigned": "76.6"
+                                            }
+                                        }
+                                    ],
+                                    "01_uninfected_rep1": [
+                                        {
+                                            "sample": "01_uninfected_rep1",
+                                            "raw_data": {
+                                                "Assigned": 83.636305,
+                                                "percent_assigned": 85.56689698963196
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "83.6",
+                                                "percent_assigned": "85.6"
+                                            }
+                                        }
+                                    ],
+                                    "23_OC43_18hpi_rep3": [
+                                        {
+                                            "sample": "23_OC43_18hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 47.839676999999995,
+                                                "percent_assigned": 86.63521615650482
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "47.8",
+                                                "percent_assigned": "86.6"
+                                            }
+                                        }
+                                    ],
+                                    "34_OC43_12hpi_rep4": [
+                                        {
+                                            "sample": "34_OC43_12hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 61.666056,
+                                                "percent_assigned": 85.75883770610156
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "61.7",
+                                                "percent_assigned": "85.8"
+                                            }
+                                        }
+                                    ],
+                                    "33_OC43_9hpi_rep4": [
+                                        {
+                                            "sample": "33_OC43_9hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 54.491406999999995,
+                                                "percent_assigned": 81.0046743351292
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "54.5",
+                                                "percent_assigned": "81.0"
+                                            }
+                                        }
+                                    ],
+                                    "09_uninfected_rep2": [
+                                        {
+                                            "sample": "09_uninfected_rep2",
+                                            "raw_data": {
+                                                "Assigned": 68.460047,
+                                                "percent_assigned": 84.36437928858128
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "68.5",
+                                                "percent_assigned": "84.4"
+                                            }
+                                        }
+                                    ],
+                                    "37_OC43_30hpi_rep4": [
+                                        {
+                                            "sample": "37_OC43_30hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 85.683515,
+                                                "percent_assigned": 89.17441884039128
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "85.7",
+                                                "percent_assigned": "89.2"
+                                            }
+                                        }
+                                    ],
+                                    "31_OC43_3hpi_rep4": [
+                                        {
+                                            "sample": "31_OC43_3hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 46.384311,
+                                                "percent_assigned": 78.71584973668618
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "46.4",
+                                                "percent_assigned": "78.7"
+                                            }
+                                        }
+                                    ],
+                                    "25_OC43_30hpi_rep3": [
+                                        {
+                                            "sample": "25_OC43_30hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 73.40890399999999,
+                                                "percent_assigned": 88.31198722177082
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "73.4",
+                                                "percent_assigned": "88.3"
+                                            }
+                                        }
+                                    ],
+                                    "15_OC43_24hpi_rep2": [
+                                        {
+                                            "sample": "15_OC43_24hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 26.520408999999997,
+                                                "percent_assigned": 35.97976378428343
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "26.5",
+                                                "percent_assigned": "36.0"
+                                            }
+                                        }
+                                    ],
+                                    "21_OC43_9hpi_rep3": [
+                                        {
+                                            "sample": "21_OC43_9hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 57.343472,
+                                                "percent_assigned": 81.37593694623739
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "57.3",
+                                                "percent_assigned": "81.4"
+                                            }
+                                        }
+                                    ],
+                                    "07_OC43_24hpi_rep1": [
+                                        {
+                                            "sample": "07_OC43_24hpi_rep1",
+                                            "raw_data": {
+                                                "Assigned": 70.102047,
+                                                "percent_assigned": 92.01433649132802
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "70.1",
+                                                "percent_assigned": "92.0"
+                                            }
+                                        }
+                                    ],
+                                    "16_OC43_30hpi_rep2": [
+                                        {
+                                            "sample": "16_OC43_30hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 72.69120199999999,
+                                                "percent_assigned": 91.22171019217659
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "72.7",
+                                                "percent_assigned": "91.2"
+                                            }
+                                        }
+                                    ],
+                                    "36_OC43_24hpi_rep4": [
+                                        {
+                                            "sample": "36_OC43_24hpi_rep4",
+                                            "raw_data": {
+                                                "Assigned": 52.233283,
+                                                "percent_assigned": 90.01195172608998
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "52.2",
+                                                "percent_assigned": "90.0"
+                                            }
+                                        }
+                                    ],
+                                    "13_OC43_12hpi_rep2": [
+                                        {
+                                            "sample": "13_OC43_12hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 70.372835,
+                                                "percent_assigned": 87.8592321831945
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "70.4",
+                                                "percent_assigned": "87.9"
+                                            }
+                                        }
+                                    ],
+                                    "18_OC43_1.5hpi_rep3": [
+                                        {
+                                            "sample": "18_OC43_1.5hpi_rep3",
+                                            "raw_data": {
+                                                "Assigned": 56.305042,
+                                                "percent_assigned": 77.0483849675723
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "56.3",
+                                                "percent_assigned": "77.0"
+                                            }
+                                        }
+                                    ],
+                                    "17_uninfected_rep3": [
+                                        {
+                                            "sample": "17_uninfected_rep3",
+                                            "raw_data": {
+                                                "Assigned": 53.615989,
+                                                "percent_assigned": 78.40548257059189
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "53.6",
+                                                "percent_assigned": "78.4"
+                                            }
+                                        }
+                                    ],
+                                    "12_OC43_9hpi_rep2": [
+                                        {
+                                            "sample": "12_OC43_9hpi_rep2",
+                                            "raw_data": {
+                                                "Assigned": 75.88078999999999,
+                                                "percent_assigned": 84.28023771400078
+                                            },
+                                            "formatted_data": {
+                                                "Assigned": "75.9",
+                                                "percent_assigned": "84.3"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "headers_in_order": {
+                            "1000.0": [
+                                [
+                                    0,
+                                    "Assigned"
+                                ],
+                                [
+                                    0,
+                                    "percent_assigned"
+                                ]
+                            ]
+                        }
+                    },
+                    "show_table_by_default": true,
+                    "is_downsampled": false
+                }
+            ],
+            "pconfig": {
+                "id": "general_stats_table",
+                "title": "General Statistics",
+                "anchor": null,
+                "table_title": null,
+                "height": null,
+                "width": null,
+                "square": false,
+                "logswitch": false,
+                "logswitch_active": false,
+                "logswitch_label": "Log10",
+                "cpswitch": true,
+                "cpswitch_c_active": true,
+                "cpswitch_counts_label": "Counts",
+                "cpswitch_percent_label": "Percentages",
+                "xLog": null,
+                "yLog": null,
+                "xlog": false,
+                "ylog": false,
+                "data_labels": [],
+                "xTitle": null,
+                "yTitle": null,
+                "xlab": null,
+                "ylab": null,
+                "xsuffix": null,
+                "ysuffix": null,
+                "tt_suffix": null,
+                "xLabFormat": null,
+                "yLabFormat": null,
+                "xLabelFormat": null,
+                "yLabelFormat": null,
+                "xlab_format": null,
+                "ylab_format": null,
+                "tt_label": null,
+                "xDecimals": null,
+                "yDecimals": null,
+                "decimalPlaces": null,
+                "x_decimals": null,
+                "y_decimals": null,
+                "tt_decimals": null,
+                "xmin": null,
+                "xmax": null,
+                "ymin": null,
+                "ymax": null,
+                "xFloor": null,
+                "xCeiling": null,
+                "yFloor": null,
+                "yCeiling": null,
+                "x_clipmin": null,
+                "x_clipmax": null,
+                "y_clipmin": null,
+                "y_clipmax": null,
+                "save_data_file": true,
+                "showlegend": null,
+                "xMinRange": null,
+                "yMinRange": null,
+                "x_minrange": null,
+                "y_minrange": null,
+                "xPlotBands": null,
+                "yPlotBands": null,
+                "xPlotLines": null,
+                "yPlotLines": null,
+                "x_bands": null,
+                "y_bands": null,
+                "x_lines": null,
+                "y_lines": null,
+                "namespace": "",
+                "save_file": true,
+                "raw_data_fn": "multiqc_general_stats",
+                "defaultsort": null,
+                "sortRows": true,
+                "sort_rows": true,
+                "only_defined_headers": true,
+                "col1_header": "Sample Name",
+                "no_beeswarm": false,
+                "no_violin": false,
+                "scale": "GnBu",
+                "min": null,
+                "parse_numeric": true
+            },
+            "add_log_tab": false,
+            "add_pct_tab": false,
+            "l_active": false,
+            "p_active": false,
+            "pct_axis_update": {
+                "ticksuffix": "%",
+                "hoverformat": ".1f"
+            },
+            "axis_controlled_by_switches": [],
+            "square": false,
+            "flat": false,
+            "defer_render": false,
+            "section_anchor": null,
+            "module_anchor": null,
+            "violin_height": 70,
+            "extra_height": 63,
+            "no_violin": false,
+            "show_table": true,
+            "show_table_by_default": true,
+            "n_samples": 34,
+            "table_anchor": "general_stats_table_table"
+        }
+    },
+    "report_creation_date": "2026-02-20, 15:07 KST",
+    "config_analysis_dir": [
+        "."
+    ],
+    "config_git_hash": null,
+    "config_intro_text": null,
+    "config_report_comment": null,
+    "config_report_header_info": null,
+    "config_script_path": "/home/yyyyx/.local/share/pipx/venvs/multiqc/lib/python3.12/site-packages/multiqc",
+    "config_short_version": "1.27",
+    "config_subtitle": null,
+    "config_title": null,
+    "config_version": "1.27",
+    "config_output_dir": "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual",
+    "config_analysis_dir_abs": [
+        "/home/yyyyx/Work/OC43_Bulk_MRC5_v2/feature_counts_individual"
+    ],
+    "report_saved_raw_data": {
+        "multiqc_featurecounts": {
+            "08_OC43_30hpi_rep1": {
+                "Total": 89095455,
+                "Assigned": 82184432,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 6911023,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 92.24312508421446
+            },
+            "30_OC43_1.5hpi_rep4": {
+                "Total": 73584106,
+                "Assigned": 57205139,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16378967,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 77.74116192972433
+            },
+            "32_OC43_6hpi_rep4": {
+                "Total": 79442926,
+                "Assigned": 62644122,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16798804,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 78.8542481428743
+            },
+            "35_OC43_18hpi_rep4": {
+                "Total": 100541857,
+                "Assigned": 89240146,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 11301711,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 88.75919807210245
+            },
+            "04_OC43_9hpi_rep1": {
+                "Total": 76947932,
+                "Assigned": 65626661,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 11321271,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 85.28710167285587
+            },
+            "03_OC43_6hpi_rep1": {
+                "Total": 84466016,
+                "Assigned": 71052292,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 13413724,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.11938358735897
+            },
+            "10_OC43_1.5hpi_rep2": {
+                "Total": 92473459,
+                "Assigned": 77806317,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14667142,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.13907930058072
+            },
+            "29_uninfected_rep4": {
+                "Total": 73552394,
+                "Assigned": 56720818,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16831576,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 77.11620916105055
+            },
+            "06_OC43_18hpi_rep1": {
+                "Total": 81032969,
+                "Assigned": 73537009,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 7495960,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 90.7494935795824
+            },
+            "24_OC43_24hpi_rep3": {
+                "Total": 66061374,
+                "Assigned": 57793715,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 8267659,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 87.48488186152471
+            },
+            "11_OC43_3hpi_rep2": {
+                "Total": 96340247,
+                "Assigned": 80227604,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16112643,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 83.27527331334328
+            },
+            "22_OC43_12hpi_rep3": {
+                "Total": 52646401,
+                "Assigned": 44724616,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 7921785,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.95284606444417
+            },
+            "14_OC43_18hpi_rep2": {
+                "Total": 83738416,
+                "Assigned": 75733731,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 8004685,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 90.44084497609795
+            },
+            "02_OC43_3hpi_rep1": {
+                "Total": 103489171,
+                "Assigned": 85548063,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 17941108,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 82.66378228114321
+            },
+            "05_OC43_12hpi_rep1": {
+                "Total": 87567114,
+                "Assigned": 75753134,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 11813980,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 86.50865666304819
+            },
+            "20_OC43_6hpi_rep3": {
+                "Total": 75597808,
+                "Assigned": 57212061,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 18385747,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 75.67952367084506
+            },
+            "19_OC43_3hpi_rep3": {
+                "Total": 62054697,
+                "Assigned": 47527525,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14527172,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 76.5897301859358
+            },
+            "01_uninfected_rep1": {
+                "Total": 97743763,
+                "Assigned": 83636305,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14107458,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 85.56689698963196
+            },
+            "23_OC43_18hpi_rep3": {
+                "Total": 55219666,
+                "Assigned": 47839677,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 7379989,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 86.63521615650482
+            },
+            "34_OC43_12hpi_rep4": {
+                "Total": 71906357,
+                "Assigned": 61666056,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 10240301,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 85.75883770610156
+            },
+            "33_OC43_9hpi_rep4": {
+                "Total": 67269460,
+                "Assigned": 54491407,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 12778053,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 81.0046743351292
+            },
+            "09_uninfected_rep2": {
+                "Total": 81148048,
+                "Assigned": 68460047,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 12688001,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.36437928858128
+            },
+            "37_OC43_30hpi_rep4": {
+                "Total": 96085308,
+                "Assigned": 85683515,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 10401793,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 89.17441884039128
+            },
+            "31_OC43_3hpi_rep4": {
+                "Total": 58926266,
+                "Assigned": 46384311,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 12541955,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 78.71584973668618
+            },
+            "25_OC43_30hpi_rep3": {
+                "Total": 83124507,
+                "Assigned": 73408904,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 9715603,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 88.31198722177082
+            },
+            "15_OC43_24hpi_rep2": {
+                "Total": 73709236,
+                "Assigned": 26520409,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 47188827,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 35.97976378428343
+            },
+            "21_OC43_9hpi_rep3": {
+                "Total": 70467357,
+                "Assigned": 57343472,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 13123885,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 81.37593694623739
+            },
+            "07_OC43_24hpi_rep1": {
+                "Total": 76186005,
+                "Assigned": 70102047,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 6083958,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 92.01433649132802
+            },
+            "16_OC43_30hpi_rep2": {
+                "Total": 79686296,
+                "Assigned": 72691202,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 6995094,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 91.22171019217659
+            },
+            "36_OC43_24hpi_rep4": {
+                "Total": 58029275,
+                "Assigned": 52233283,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 5795992,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 90.01195172608998
+            },
+            "13_OC43_12hpi_rep2": {
+                "Total": 80097257,
+                "Assigned": 70372835,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 9724422,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 87.8592321831945
+            },
+            "18_OC43_1.5hpi_rep3": {
+                "Total": 73077511,
+                "Assigned": 56305042,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 16772469,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 77.0483849675723
+            },
+            "17_uninfected_rep3": {
+                "Total": 68382959,
+                "Assigned": 53615989,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14766970,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 78.40548257059189
+            },
+            "12_OC43_9hpi_rep2": {
+                "Total": 90033906,
+                "Assigned": 75880790,
+                "Unassigned_Unmapped": 0,
+                "Unassigned_Read_Type": 0,
+                "Unassigned_Singleton": 0,
+                "Unassigned_MappingQuality": 0,
+                "Unassigned_Chimera": 0,
+                "Unassigned_FragmentLength": 0,
+                "Unassigned_Duplicate": 0,
+                "Unassigned_MultiMapping": 0,
+                "Unassigned_Secondary": 0,
+                "Unassigned_NonSplit": 0,
+                "Unassigned_NoFeatures": 14153116,
+                "Unassigned_Overlapping_Length": 0,
+                "Unassigned_Ambiguity": 0,
+                "percent_assigned": 84.28023771400078
+            }
+        },
+        "multiqc_general_stats": {
+            "08_OC43_30hpi_rep1": {
+                "featurecounts-Assigned": 82.184432,
+                "featurecounts-percent_assigned": 92.24312508421446
+            },
+            "30_OC43_1.5hpi_rep4": {
+                "featurecounts-Assigned": 57.205138999999996,
+                "featurecounts-percent_assigned": 77.74116192972433
+            },
+            "32_OC43_6hpi_rep4": {
+                "featurecounts-Assigned": 62.644121999999996,
+                "featurecounts-percent_assigned": 78.8542481428743
+            },
+            "35_OC43_18hpi_rep4": {
+                "featurecounts-Assigned": 89.240146,
+                "featurecounts-percent_assigned": 88.75919807210245
+            },
+            "04_OC43_9hpi_rep1": {
+                "featurecounts-Assigned": 65.626661,
+                "featurecounts-percent_assigned": 85.28710167285587
+            },
+            "03_OC43_6hpi_rep1": {
+                "featurecounts-Assigned": 71.052292,
+                "featurecounts-percent_assigned": 84.11938358735897
+            },
+            "10_OC43_1.5hpi_rep2": {
+                "featurecounts-Assigned": 77.80631699999999,
+                "featurecounts-percent_assigned": 84.13907930058072
+            },
+            "29_uninfected_rep4": {
+                "featurecounts-Assigned": 56.720817999999994,
+                "featurecounts-percent_assigned": 77.11620916105055
+            },
+            "06_OC43_18hpi_rep1": {
+                "featurecounts-Assigned": 73.537009,
+                "featurecounts-percent_assigned": 90.7494935795824
+            },
+            "24_OC43_24hpi_rep3": {
+                "featurecounts-Assigned": 57.793715,
+                "featurecounts-percent_assigned": 87.48488186152471
+            },
+            "11_OC43_3hpi_rep2": {
+                "featurecounts-Assigned": 80.227604,
+                "featurecounts-percent_assigned": 83.27527331334328
+            },
+            "22_OC43_12hpi_rep3": {
+                "featurecounts-Assigned": 44.724616,
+                "featurecounts-percent_assigned": 84.95284606444417
+            },
+            "14_OC43_18hpi_rep2": {
+                "featurecounts-Assigned": 75.73373099999999,
+                "featurecounts-percent_assigned": 90.44084497609795
+            },
+            "02_OC43_3hpi_rep1": {
+                "featurecounts-Assigned": 85.548063,
+                "featurecounts-percent_assigned": 82.66378228114321
+            },
+            "05_OC43_12hpi_rep1": {
+                "featurecounts-Assigned": 75.753134,
+                "featurecounts-percent_assigned": 86.50865666304819
+            },
+            "20_OC43_6hpi_rep3": {
+                "featurecounts-Assigned": 57.212061,
+                "featurecounts-percent_assigned": 75.67952367084506
+            },
+            "19_OC43_3hpi_rep3": {
+                "featurecounts-Assigned": 47.527525,
+                "featurecounts-percent_assigned": 76.5897301859358
+            },
+            "01_uninfected_rep1": {
+                "featurecounts-Assigned": 83.636305,
+                "featurecounts-percent_assigned": 85.56689698963196
+            },
+            "23_OC43_18hpi_rep3": {
+                "featurecounts-Assigned": 47.839676999999995,
+                "featurecounts-percent_assigned": 86.63521615650482
+            },
+            "34_OC43_12hpi_rep4": {
+                "featurecounts-Assigned": 61.666056,
+                "featurecounts-percent_assigned": 85.75883770610156
+            },
+            "33_OC43_9hpi_rep4": {
+                "featurecounts-Assigned": 54.491406999999995,
+                "featurecounts-percent_assigned": 81.0046743351292
+            },
+            "09_uninfected_rep2": {
+                "featurecounts-Assigned": 68.460047,
+                "featurecounts-percent_assigned": 84.36437928858128
+            },
+            "37_OC43_30hpi_rep4": {
+                "featurecounts-Assigned": 85.683515,
+                "featurecounts-percent_assigned": 89.17441884039128
+            },
+            "31_OC43_3hpi_rep4": {
+                "featurecounts-Assigned": 46.384311,
+                "featurecounts-percent_assigned": 78.71584973668618
+            },
+            "25_OC43_30hpi_rep3": {
+                "featurecounts-Assigned": 73.40890399999999,
+                "featurecounts-percent_assigned": 88.31198722177082
+            },
+            "15_OC43_24hpi_rep2": {
+                "featurecounts-Assigned": 26.520408999999997,
+                "featurecounts-percent_assigned": 35.97976378428343
+            },
+            "21_OC43_9hpi_rep3": {
+                "featurecounts-Assigned": 57.343472,
+                "featurecounts-percent_assigned": 81.37593694623739
+            },
+            "07_OC43_24hpi_rep1": {
+                "featurecounts-Assigned": 70.102047,
+                "featurecounts-percent_assigned": 92.01433649132802
+            },
+            "16_OC43_30hpi_rep2": {
+                "featurecounts-Assigned": 72.69120199999999,
+                "featurecounts-percent_assigned": 91.22171019217659
+            },
+            "36_OC43_24hpi_rep4": {
+                "featurecounts-Assigned": 52.233283,
+                "featurecounts-percent_assigned": 90.01195172608998
+            },
+            "13_OC43_12hpi_rep2": {
+                "featurecounts-Assigned": 70.372835,
+                "featurecounts-percent_assigned": 87.8592321831945
+            },
+            "18_OC43_1.5hpi_rep3": {
+                "featurecounts-Assigned": 56.305042,
+                "featurecounts-percent_assigned": 77.0483849675723
+            },
+            "17_uninfected_rep3": {
+                "featurecounts-Assigned": 53.615989,
+                "featurecounts-percent_assigned": 78.40548257059189
+            },
+            "12_OC43_9hpi_rep2": {
+                "featurecounts-Assigned": 75.88078999999999,
+                "featurecounts-percent_assigned": 84.28023771400078
+            }
+        }
+    }
+}

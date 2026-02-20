@@ -1,0 +1,23 @@
+# Data and Large Files
+Data/*
+!Data/Bulk-seq_data/
+Data/Bulk-seq_data/*
+!Data/Bulk-seq_data/GSE252692_feature_counts/
+CSV/
+Pseudobulk/
+*.h5ad
+*.pkl
+*.gz
+
+# Temporary/Log Files
+catboost_info/
+__pycache__/
+logs.log
+*.log
+
+# Results
+Plot/
+
+# OS/IDE Files
+.DS_Store
+.ipynb_checkpoints/
